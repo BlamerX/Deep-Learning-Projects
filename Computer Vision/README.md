@@ -19,4 +19,4 @@ pip install opencv-contrib-python
 pip install dlib
 ```
 
-![](![Alt text](./Face%20Detection%20Using%20Dlib/image.png))
+![Alt text](./Face%20Detection%20Using%20Dlib/image.png)
