@@ -32,7 +32,7 @@ Each training and test example is assigned to one of the following labels:
 8. Bag
 9. Ankle boot
 
-## TL;DR
+## About Data
 
 - Each row is a separate image
 - Column 1 is the class label.
